@@ -6,7 +6,7 @@ A simple collaborative whiteboard
 ## How to use
 
 ```
-$ npm ci && npm start
+$ npm install && npm start
 ```
 
 And point your browser to `http://localhost:3000`. Optionally, specify
